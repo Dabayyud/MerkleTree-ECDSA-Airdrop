@@ -1,3 +1,5 @@
+AI GENERATED READ ME FILE BECAUSE I CANT BE ASKED
+
 # MerkleAirdrop - Gasless Token Distribution System
 
 A Solidity smart contract system that enables efficient and secure token airdrops using Merkle tree verification and EIP712 signature-based claiming. This project implements gasless token claiming through meta-transactions, allowing users to claim airdropped tokens without paying gas fees.
