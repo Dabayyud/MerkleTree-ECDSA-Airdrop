@@ -11,7 +11,7 @@ A Solidity smart contract system that enables efficient and secure token airdrop
 - **EIP712 Signatures**: Secure, standardized signature verification for meta-transactions
 - **Multi-Network Support**: Configurable deployment across different blockchain networks
 - **Comprehensive Testing**: Full test suite with Foundry framework
-- **Automated Deployment**: Script-based deployment with network-specific configurations
+- **Automated Deployment**: Script-based deployment with network-specific configurations.
 
 ## 📁 Project Structure
 
